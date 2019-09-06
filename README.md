@@ -2,7 +2,7 @@
 
  - git clone https://github.com/Volocuga/post-list
  
- - cd contact-book
+ - cd post-list
  
  - yarn install
  
